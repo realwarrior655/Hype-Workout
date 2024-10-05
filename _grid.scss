@@ -1,0 +1,12 @@
+.gridContainer {
+    display: grid;
+    grid-template-columns: 70px 80px;
+    grid-template-rows: 70px 80px;
+    grid-template-areas: 
+    "imgLogo navBar navBar navBar navBar"
+    "sideBar main   main   main   aside"
+    "sideBar main   main   main   aside"
+    "sideBar main   main   main   aside"
+    "sideBar  footer footer footer footer";
+
+}

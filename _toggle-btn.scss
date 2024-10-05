@@ -1,0 +1,29 @@
+.toggle-btn {
+    background-color: #ff6803;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 10px;
+    position: absolute;
+    top: 90px;
+    left: 15px;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+    transform: translateX(0); // Estado abierto
+
+    &.collapsed {
+        transform: translateX(-100%); // Estado colapsado
+
+}
+}
+
+.main {
+    margin-left: 70px; // Dejar espacio para la sidebar
+    padding: 20px;
+    transition: margin-left 0.3s ease;
+
+    &.collapsed {
+        margin-left: 0; // Ajustar margen en estado colapsado
+    }
+}
