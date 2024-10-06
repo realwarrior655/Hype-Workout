@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
   margin: 0;
   padding: 0;
@@ -10,49 +11,52 @@
   justify-content: space-around;
   width: 70px;
   grid-area: sideBar;
+  transition: transform 0.3s ease;
+  transform: translateX(0);
+}
+.sideBar.collapsed {
+  transform: translateX(-100%);
 }
 .sideBar .sideBar-ul {
   background-color: #fb8500;
+  width: 70px;
   list-style: none;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  width: 70px;
 }
-.sideBar .sideBar-ul .li-img {
-  background-color: transparent;
+.sideBar .sideBar-ul.collapsed {
+  width: 0;
 }
-.sideBar .sideBar-ul .li-img .img {
+.sideBar .sideBar-ul img {
   width: 35px;
   height: 35px;
+  transition: width 0.3s ease, height 0.3s ease;
+  /* Al colapsar la sidebar, reduce las imágenes a un tamaño adecuado */
+}
+.sideBar.collapsed .sideBar .sideBar-ul img {
+  width: 0;
+  height: 0;
+  opacity: 0; /* Para hacerlas invisibles al colapsar */
 }
 
 .toggle-btn {
-  background-color: #ff6803;
+  background-color: #fc8f00;
   border: none;
   color: #ffffff;
   cursor: pointer;
   font-size: 24px;
   padding: 10px;
   position: absolute;
-  top: 90px;
-  left: 15px;
+  top: 10px;
+  left: 90px;
   border-radius: 5px;
-  transition: transform 0.3s ease;
-  transform: translateX(0);
-}
-.toggle-btn.collapsed {
-  transform: translateX(-100%);
+  transition: background-color 0.3s ease-in;
 }
 
-.main {
-  margin-left: 70px;
-  padding: 20px;
-  transition: margin-left 0.3s ease;
-}
-.main.collapsed {
-  margin-left: 0;
+.toggle-btn:hover {
+  background-color: #000;
 }
 
 .navBar {
@@ -60,6 +64,7 @@
   display: flex;
   width: 100%;
   justify-content: end;
+  grid-area: navBar;
 }
 
 .navBar nav {
@@ -87,11 +92,10 @@
   justify-content: center; /* Centra el texto horizontalmente */
   align-items: center; /* Centra el texto verticalmente */
   background-color: rgb(255, 136, 0);
-  border: 2px solid #000000;
   border-radius: 12px;
   color: #ffffff;
   padding: 20px 5px;
-  transition: background-color 0.3s ease, color 0.2s ease, width 0.3s ease;
+  transition: background-color 0.3s ease, color 0.2s ease-in, width 0.3s ease-in;
 }
 .navBar nav li:hover {
   background-color: #000000; /* Negro */
@@ -120,16 +124,17 @@
   grid-area: imgLogo;
 }
 
-.navBar {
-  grid-area: navBar;
-}
-
 .main {
   margin: 30px;
   margin-left: 70px;
   grid-area: main;
   height: 700px;
   width: 900px;
+  padding: 20px;
+  transition: margin-left 0.3s ease;
+}
+.main.collapsed {
+  margin-left: 0;
 }
 
 .aside {
