@@ -21,6 +21,7 @@
         flex-direction: column;
         justify-content: space-evenly;
         align-items: center;
+        
     &.collapsed {
         width: 0;
     }
@@ -34,11 +35,7 @@
                 width: 0;
                 height: 0;
                 opacity: 0; /* Para hacerlas invisibles al colapsar */
-    }
-                
             }
-    }       
-        
-    
+        }
+    }   
 }
-
