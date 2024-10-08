@@ -2,7 +2,7 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #ffb703;
+  background-color: transparent;
 }
 
 .sideBar {
@@ -30,10 +30,15 @@
   width: 0;
 }
 .sideBar .sideBar-ul img {
+  display: flex;
   width: 35px;
   height: 35px;
-  transition: width 0.3s ease, height 0.3s ease;
+  transition: width 0.3s ease-in, height 0.3s ease-out;
   /* Al colapsar la sidebar, reduce las imágenes a un tamaño adecuado */
+}
+.sideBar .sideBar-ul img:hover {
+  width: 45px;
+  height: 45px;
 }
 .sideBar.collapsed .sideBar .sideBar-ul img {
   width: 0;
@@ -110,6 +115,39 @@
   grid-template-areas: "imgLogo navBar navBar navBar navBar" "sideBar main   main   main   aside" "sideBar main   main   main   aside" "sideBar main   main   main   aside" "sideBar  footer footer footer footer";
 }
 
+.course-card {
+  width: 450px;
+  height: 480px;
+  padding: 15px;
+  border: 1px solid #e04700;
+  border-radius: 10px;
+  margin: 10px;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+.course-info {
+  background-color: rgba(255, 81, 0, 0.6); /* Fondo semitransparente */
+  padding: 10px;
+  height: 450px;
+}
+
+.course-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.course-duration, .course-requirements {
+  font-size: 14px;
+}
+
+.courses-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
 .imgLogo {
   width: 15%;
 }
@@ -125,27 +163,41 @@
 }
 
 .main {
-  margin: 30px;
-  margin-left: 70px;
+  display: flex;
+  background-color: #ffb703;
   grid-area: main;
-  height: 700px;
-  width: 900px;
-  padding: 20px;
+  padding-right: 35px;
+  height: 100%;
+  width: 100%;
   transition: margin-left 0.3s ease;
 }
 .main.collapsed {
-  margin-left: 0;
+  margin-left: -70px;
 }
 
 .aside {
-  margin-top: 30px;
+  display: flex;
+  background-color: #ffb703;
+  width: 100%;
+  padding-right: 70px;
   grid-area: aside;
+  transition: margin-left 0.3s ease, margin-right 0.3s ease-in;
+}
+.aside.collapsed {
+  margin-left: -70px;
+  margin-right: 70px;
 }
 
 .footer {
+  background-color: #14213d;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  padding-right: 70px;
   width: 100%;
   grid-area: footer;
+  transition: margin-left 0.3s ease;
+}
+.footer.collapsed {
+  margin-left: -70px;
 }/*# sourceMappingURL=generalStyles.css.map */
