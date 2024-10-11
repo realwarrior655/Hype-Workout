@@ -1,3 +1,5 @@
+//sideBar Plegable
+
 const toggleBtn = document.querySelector('.toggle-btn');
 const sidebar = document.querySelector('.sideBar');
 const mainContent = document.querySelector('.main');
@@ -20,6 +22,8 @@ toggleBtn.addEventListener('click', () => {
 
 });
 
+//Plantilla de curso
+
 const cursos = [
     {
         nombre: "Curso de Verticales desde 0",
@@ -38,7 +42,26 @@ const cursos = [
         imagen: "images/curso1.png", // URL de una imagen de fondo
         duracion: "4 meses",
         requisitos: "+5 HSPU prolijas, pliegue o pancake"
-    }
+    },
+    {
+        nombre: "Curso de calistenia Básica",
+        imagen: "images/curso1.png", // URL de una imagen de fondo
+        duracion: "4 meses",
+        requisitos: "flexiones de brazos, australianas y sentadillas"
+    },
+    {
+        nombre: "Curso de calistenia intermedio",
+        imagen: "images/curso1.png", // URL de una imagen de fondo
+        duracion: "4 meses",
+        requisitos: "muscle up y vertical"
+    },
+    {
+        nombre: "Curso de calistenia avanzada",
+        imagen: "images/curso1.png", // URL de una imagen de fondo
+        duracion: "4 meses",
+        requisitos: "+5 hspu, +5 muscle ups, +5 pistol squat"
+    },
+    
 ];
 
 // Seleccionamos el contenedor donde insertaremos las tarjetas
