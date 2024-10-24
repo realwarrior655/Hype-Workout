@@ -1,67 +1,11 @@
-* { margin: 0;
+//sacar estilos pre establecidos
+*{
+    box-sizing: border-box;
+    list-style: none;
+    margin: 0;
     padding: 0;
-    background-color: transparent;
 }
 
-@import "sideBar";
-@import "toggle-btn";
-@import "navBar";
-@import "grid";
-@import "course-card";
-
-.imgLogo {
-    width: 15%;
-}
-
-.logo {
-    display: flex;
-    width: 70px;
-    height: 70px;
-}
-
-.imgLogo{
-    grid-area: imgLogo;
-}
-
-.main {
-    display: flex;
-    background-color: #ffb703;
-    grid-area: main;
-    padding-right: 35px;
-    height: 100%;
-    width: 100%;
-    transition: margin-left 0.3s ease;
-    
-    &.collapsed {
-        margin-left: -70px; // Ajustar margen en estado colapsado
-    }
-}
-
-.aside {
-    display: flex; 
-    background-color: #ffb703;
-    width: 100%;
-    padding-right: 70px;
-    grid-area: aside;
-    transition: margin-left .3s ease , margin-right .3s ease-in;
-
-    &.collapsed {
-        margin-left: -70px; // Ajustar margen en estado colapsado
-        margin-right: 70px;
-    }
-}
-
-.footer {
-    background-color: #14213d;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    padding-right: 70px;
-    width: 100%;
-    grid-area: footer;
-    transition: margin-left 0.3s ease;
-
-    &.collapsed {
-        margin-left: -70px; // Ajustar margen en estado colapsado
-        }
-} 
+@import 'movile';
+@import 'tablet';
+@import 'desktop';
