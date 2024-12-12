@@ -1,0 +1,47 @@
+.cards-container {
+    display: grid;
+    grid-template-areas: "card card card";
+    justify-content: center;
+    margin-top: 150px;
+    gap: 15px;
+    grid-template-columns: repeat(3, minmax(15% , auto ));
+    
+    .card {
+    padding: 10px;
+    background-color: #1f1c1c;
+    grid-area: "card";
+    display: grid;
+    grid-template-areas: "text1 image"
+                           "text2 image"
+                           "text3 image";
+    width: 500px;
+    height: 200px;
+    border: solid 1px;
+    border-radius: 20px 5px 20px 5px;;
+    
+
+    img {
+        height: 200px;
+        grid-area: image;
+        background-color: transparent;
+        
+    }
+
+    h3{
+        color: #db6b10;
+        grid-area: text1;
+        background-color: transparent;
+        
+    }
+    h2 {
+        color: #ece6e6;
+        grid-area: text2;
+        background-color: transparent;
+        
+    }
+    p {
+        color: #ece6e6;
+        grid-area: text3;
+        background-color: transparent;
+    }
+}}

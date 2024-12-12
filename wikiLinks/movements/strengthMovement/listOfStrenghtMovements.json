@@ -1,0 +1,183 @@
+[
+    {
+        "name":"pull over",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-pullOver",
+        "video": "url"
+
+    },
+    {
+        "name":"muscle up",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-muscleUp",
+        "video": "url"
+
+    },
+    {
+        "name":"skin the cat",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-skin the cat",
+        "video": "url"
+
+    },
+    {
+        "name":"handStand push up",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "midLevel/image-HSPU",
+        "video": "url"
+
+    },
+    {
+        "name":"press to handStand",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "midLevel/image-pressToHandStand",
+        "video": "url"
+
+    },
+    {
+        "name":"L-sit to handStand",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "midLevel/image-L-sitToHandStand",
+        "video": "url"
+
+    },
+    {
+        "name":"impossible dip",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "midLevel/image-impossibleDip",
+        "video": "url"
+
+    },
+    {
+        "name":"90degree Push Up",
+        "dificulty":"advance",
+        "description":"insert description here",
+        "image": "advance/image-90degreePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"front lever press",
+        "dificulty":"advance",
+        "description":"insert description here",
+        "image": "advance/image-frontLeverPress",
+        "video": "url"
+
+    },
+    {
+        "name":"front lever pull up",
+        "dificulty":"advance",
+        "description":"insert description here",
+        "image": "advance/image-frontLeverPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle planche press",
+        "dificulty":"advance",
+        "description":"insert description here",
+        "image": "advance/image-straddlePlanchePress",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle planche push up",
+        "dificulty":"advance",
+        "description":"insert description here",
+        "image": "advance/image-straddlePlanchePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"full planche press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-semiFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"full front lever",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-fullFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"Straddle planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-straddlePlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"archer front lever pull up",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-archerFrontLeverPullUp",
+        "video": "url"
+
+    },    {
+        "name":"archer planche push up",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-archerPlanchePushUp",
+        "video": "url"
+
+    },    {
+        "name":"SAT pull up (straight arm touch)",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-SATPullUp",
+        "video": "url"
+
+    },    {
+        "name":"maltess planche press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-maltessPlanchePress",
+        "video": "url"
+
+    },
+    {
+        "name":"touch front lever press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-touchFrontLeverPress",
+        "video": "url"
+
+    },
+    {
+        "name":"azarian press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-azarianPress",
+        "video": "url"
+
+    },
+    {
+        "name":"hefesto",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-hefesto",
+        "video": "url"
+
+    },
+    {
+        "name":"back lever hefesto",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-backLeverHefesto",
+        "video": "url"
+
+    }
+]

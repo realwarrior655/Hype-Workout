@@ -1,0 +1,307 @@
+[
+    {
+        "name":"knee push ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-kneePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"push ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-pushUps",
+        "video": "url"
+
+    },
+    {
+        "name":"elevated push ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-evelatedPushUps",
+        "video": "url"
+
+   },
+   {
+        "name":"declined push ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-declinedPushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"diamond push ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-diamondPushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"clap push ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-clapPushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"scapular push up",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-scapularPushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"parallettes dip",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-dip",
+        "video": "url"
+
+    },
+    {
+        "name":"bar dip",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-barDip",
+        "video": "url"
+
+    },
+    {
+        "name":"supinated bar dip",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-SUpinatedBarDip",
+        "video": "url"
+
+    },
+    {
+        "name":"pyke push ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-pykePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"lean planche",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-leanPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"lean planche press",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-leanPlanchePress",
+        "video": "url"
+
+    },
+    {
+        "name":"lean planche push up",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-leanPlanchePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"handStand",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-handStand",
+        "video": "url"
+
+    },
+    {
+        "name":"levitate pyke push ups",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-levitatePykePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"handStand push up",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-HSPU",
+        "video": "url"
+
+    },
+    {
+        "name":"protracted dip",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-protractedDip",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck planche",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-tuckPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck planche push up",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-",
+        "video": "url"
+
+    },
+    {
+        "name":"deep handStand push up",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-deepHSPU",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck planche press",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-tuckPlanchePress",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck advance planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-tuckAdvancePlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck advance planche push up",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-tuckAdvancePlanchePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck advance planche press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-tuckAdvancePlanchePress",
+        "video": "url"
+
+    },
+    {
+        "name":"90degree hold",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-90degreeHold",
+        "video": "url"
+
+    },
+    {
+        "name":"90degree push ups",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-90degreeePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"advance frog planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-advanceFrogPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"advance frog planche press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-advanceFrogPlanchePress",
+        "video": "url"
+
+    },
+    {
+        "name":"advance frog planche push ups",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-advanceFrogPlanchePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-straddlePlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle planche press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-straddlePlanchePress",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle planche push ups",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-straddlePlanchePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"full planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-fullPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"full planche push ups",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-fullPlanchePushUp",
+        "video": "url"
+
+    },
+    {
+        "name":"full planche press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-fullPlanchePress",
+        "video": "url"
+
+    },
+    {
+        "name":"maltess planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-maltessPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"maltess planche press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-maltessPlanchePress",
+        "video": "url"
+
+    }
+
+]

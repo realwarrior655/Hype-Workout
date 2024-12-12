@@ -1,0 +1,307 @@
+[
+    {
+        "name":"australian pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-australianPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"assisted pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-assistedPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"scapular pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-scapularPullUp",
+        "video": "url"
+
+   },
+   {
+        "name":"negative pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-negativePullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"isometric pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-isometricPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"supinated pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-supinatedPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-PullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"neutral pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-neutralPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"commando pull ups",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-commandoPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"pull over",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-pullOver",
+        "video": "url"
+
+    },
+    {
+        "name":"archer pull ups",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-commandoPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"high pull ups",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-highPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"false grip pull ups",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-falseGripPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"slow pull ups",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-slowPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"muscle up",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-muscleUp",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck front lever",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-tuckFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck front lever press",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-tuckFrontLeverPress",
+        "video": "url"
+
+    },
+    {
+        "name":"L front lever",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-LFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"L front lever pull up",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-LFrontLeverPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"L front lever press",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-LFrontLeverPress",
+        "video": "url"
+
+    },
+    {
+        "name":"pyke front lever",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-pykeFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck advance front lever",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-TuckAdvanceFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck advance front lever pull up",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-tuck AdvanceFrontLeverPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck advance front lever press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-tuckAdvanceFrontLeverPress",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle front lever",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-straddleFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle front lever pull up",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-straddleFrontLeverPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle front lever press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-straddleFrontLeverPress",
+        "video": "url"
+
+    },
+    {
+        "name":"semi front lever",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-semiFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"semi front lever pull up",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-semiFrontLeverPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"semi front lever press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-semiFrontLeverPress",
+        "video": "url"
+
+    },
+    {
+        "name":"front lever full",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-frontLeverFull",
+        "video": "url"
+
+    },
+    {
+        "name":"front lever pull up",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-frontLeverFullPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"front lever full press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-frontLeverFullPress",
+        "video": "url"
+
+    },
+    {
+        "name":"front lever touch",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-touchFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"archer front lever pull up",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-archerFrontLeverPullUp",
+        "video": "url"
+
+    },
+    {
+        "name":"victorian",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-victorial",
+        "video": "url"
+
+    },
+    {
+        "name":"victorian press",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-victorianPress",
+        "video": "url"
+
+    },
+    {
+        "name":"SAT (straight arm touch)",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "beginer/image-SAT",
+        "video": "url"
+
+    }
+
+]

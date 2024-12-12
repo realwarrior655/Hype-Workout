@@ -1,0 +1,62 @@
+* {
+  background-color: rgb(175, 155, 131);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-areas: "card card card";
+  justify-content: center;
+  margin-top: 150px;
+  gap: 15px;
+  grid-template-columns: repeat(3, minmax(15%, auto));
+}
+.cards-container .card {
+  padding: 10px;
+  background-color: #1f1c1c;
+  grid-area: "card";
+  display: grid;
+  grid-template-areas: "text1 image" "text2 image" "text3 image";
+  width: 500px;
+  height: 200px;
+  border: solid 1px;
+  border-radius: 20px 5px 20px 5px;
+}
+.cards-container .card img {
+  height: 200px;
+  grid-area: image;
+  background-color: transparent;
+}
+.cards-container .card h3 {
+  color: #db6b10;
+  grid-area: text1;
+  background-color: transparent;
+}
+.cards-container .card h2 {
+  color: #ece6e6;
+  grid-area: text2;
+  background-color: transparent;
+}
+.cards-container .card p {
+  color: #ece6e6;
+  grid-area: text3;
+  background-color: transparent;
+}
+
+#mainContent {
+  margin: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+#mainContent .mainBtn {
+  width: 25vw;
+  height: 10vw;
+  border: none;
+  border-radius: 15%;
+  background-color: rgba(255, 255, 255, 0.651);
+}/*# sourceMappingURL=generalStyles.css.map */

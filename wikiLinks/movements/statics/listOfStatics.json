@@ -1,0 +1,151 @@
+[
+    {
+        "name":"frog stand",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-frogStand",
+        "video": "url"
+
+    },
+    {
+        "name":"crow pose",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-crowPose",
+        "video": "url"
+
+    },
+    {
+        "name":"tuck planche",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-tuckPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"elbow planche",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-elbowPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"bent planche",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-bentPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"L-sit",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-L-sit",
+        "video": "url"
+
+    },
+    {
+        "name":"V-sit",
+        "dificulty":"beginer",
+        "description":"insert description here",
+        "image": "beginer/image-V-sit",
+        "video": "url"
+
+    },
+    {
+        "name":"I-sit",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "beginer/image-I-sit",
+        "video": "url"
+
+    },
+    {
+        "name":"handStand",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "midLevel/image-handStand",
+        "video": "url"
+
+    },
+    {
+        "name":"back lever",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "midLevel/image-backLever",
+        "video": "url"
+
+    },
+    {
+        "name":"straddle front lever",
+        "dificulty":"midLevel",
+        "description":"insert description here",
+        "image": "midLevel/image-straddleFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"half-lay front lever (semi)",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-semiFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"full front lever",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-fullFrontLever",
+        "video": "url"
+
+    },
+    {
+        "name":"Straddle planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-straddlePlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"full planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-fullPlanche",
+        "video": "url"
+
+    },    {
+        "name":"touch front lever",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-touchFrontLever",
+        "video": "url"
+
+    },    {
+        "name":"SAT (straight arm touch)",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-SAT",
+        "video": "url"
+
+    },    {
+        "name":"maltess planche",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-maltessPlanche",
+        "video": "url"
+
+    },
+    {
+        "name":"inverse SAT",
+        "dificulty":"Advance",
+        "description":"insert description here",
+        "image": "advance/image-inverseSAT",
+        "video": "url"
+
+    }
+]

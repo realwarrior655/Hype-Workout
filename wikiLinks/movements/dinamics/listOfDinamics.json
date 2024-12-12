@@ -1,0 +1,93 @@
+[
+    {
+        "Name": "180",
+        "dificulty": "beginer",
+        "description": "A beginner-friendly spin where the body rotates 180 degrees while holding the bar.",
+        "image": "beginer/image-180.svg",
+        "video": "url"
+    },
+    {
+        "Name": "pantoja",
+        "dificulty": "beginer",
+        "description": "A basic dynamic movement that focuses on control and precision while transitioning on the bar.",
+        "image": "beginer/image-pantoja.svg",
+        "video": "url"
+    },
+    {
+        "Name": "tornado",
+        "dificulty": "beginer",
+        "description": "A spinning motion where the legs create a tornado-like effect while holding the bar.",
+        "image": "beginer/image-tornado.svg",
+        "video": "url"
+    },
+    {
+        "Name": "dragon 360",
+        "dificulty": "beginer",
+        "description": "A full 360-degree spin resembling a dragon's flight, ideal for beginners.",
+        "image": "beginer/image-dragon360.svg",
+        "video": "url"
+    },
+    {
+        "Name": "olimpic muscle up",
+        "dificulty": "beginer",
+        "description": "A muscle-up variation with a smooth and wide Olympic-style transition.",
+        "image": "beginer/image-olimpicMuscleUp.svg",
+        "video": "url"
+    },
+    {
+        "Name": "super pull over",
+        "dificulty": "beginer",
+        "description": "A beginner trick where the body rolls over the bar with controlled momentum.",
+        "image": "beginer/image-superPullOver.svg",
+        "video": "url"
+    },
+    {
+        "Name": "barspin",
+        "dificulty": "beginer",
+        "description": "A dynamic move where the bar is spun 360 degrees while maintaining control.",
+        "image": "advance/image-barspin.svg",
+        "video": "url"
+    },
+    {
+        "Name": "540",
+        "dificulty": "Mid Level",
+        "description": "A mid-level trick involving a 540-degree spin while gripping the bar.",
+        "image": "midLevel/image-540.svg",
+        "video": "url"
+    },
+    {
+        "Name": "skin the catch",
+        "dificulty": "Mid Level",
+        "description": "A creative transition move focusing on bar control and body coordination.",
+        "image": "midLevel/image-skinTheCatch.svg",
+        "video": "url"
+    },
+    {
+        "Name": "geinger",
+        "dificulty": "Mid Level",
+        "description": "A dynamic release trick where the athlete performs a backflip and then regripping the bar.",
+        "image": "midLevel/image-geinger.svg",
+        "video": "url"
+    },
+    {
+        "Name": "720",
+        "dificulty": "Advance",
+        "description": "An advanced trick featuring a 720-degree spin while suspended on the bar.",
+        "image": "advance/image-720.svg",
+        "video": "url"
+    },
+    {
+        "Name": "front flip",
+        "dificulty": "Advance",
+        "description": "An advanced release move involving a complete front flip before regripping the bar.",
+        "image": "advance/image-frontFlip.svg",
+        "video": "url"
+    },
+    {
+        "Name": "900",
+        "dificulty": "Advance",
+        "description": "A highly advanced dynamic trick featuring a 900-degree spin, showcasing maximum control and skill.",
+        "image": "advance/image-900.svg",
+        "video": "url"
+    }
+]
